@@ -1,3 +1,1 @@
-hunchentoot and clack example code
-
-working examples are worthwhile assets
+Hunchentoot and Clack example code
